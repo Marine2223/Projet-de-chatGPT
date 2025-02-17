@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    font-family: "system-ui";
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+}
+.but1{
+    background-color: black;
+    color: #ffff;
+    width: 8rem;
+}
+.but2{
+    width: 6rem;
+    border: 1px solid black;
+}
+.partie{
+    display: grid;
+    padding: 1rem 0rem 1rem 1rem;
+    margin: 2rem 20rem 0rem 25rem ;
+    border: 1px rgba(0, 0, 0, 0.185) solid;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.189) ;
+    border-radius: 15px;
+    height: 7rem;
+    gap: 5px;
+}
+h1{
+    text-align: center;
+    padding-top: 5rem;
+}
+.btn{
+    display: flex;
+}
+.btn1{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+    height: 2rem;
+    padding: 10px;
+}
+.btn2{
+    padding-left: 34rem;
+}
+.btn3{
+    background-color: rgb(69, 67, 67);
+    color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+    padding: 2%;
+    height: 2rem;
+    width: 2rem;
+}
+textarea{
+    border: 0;
+    resize: none;
+    width: 30rem;
+}
+.ntb{
+    margin: 0rem 25rem 0rem 32rem ;
+    padding-top: 2rem;
+}
+.ntb1{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+}
+.ntb2{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+}
+.ntb3{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+}
+.ntb4{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+}
+.nt51{
+    background-color: #ffffff;
+    border: solid 1px rgba(0, 0, 0, 0.125);
+}
+.ntb1 i{
+    color: rgb(236, 173, 91);
+}
+.ntb2 i{
+    color: rgb(237, 205, 20);
+}
+.ntb3 i{
+    color: rgb(135, 216, 222);
+}
+.ntb4 i{
+    color: rgb(135, 216, 222);
+}
+.message{
+    margin: 0rem 25rem 0rem 25rem ;
+}
+p{
+    text-align: center;
+    padding-top: 10rem;
+}
+strong{
+    text-decoration: underline;
+}
